@@ -1,8 +1,3 @@
-# React + Vite
+# Nike Design with React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Welcome to the Nike Design project, a basic React.js application showcasing a simple user interface with navigation options for Men, Women, Kids, and Sales. This project demonstrates the use of React components and JSX to create a responsive and interactive design.
